@@ -47,7 +47,7 @@ namespace sqlprueba
                 MessageBox.Show("Nel pastel");
             }
         }
-
+        //cargar
         private void Cargar_Click(object sender, EventArgs e)
         {
             DataTable dt = personaje.LeerPersonajes();
